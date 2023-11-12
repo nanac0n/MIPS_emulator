@@ -1,0 +1,4 @@
+ cp /home/ca/2023    /home/ca/2023  
+	add r1+r2  r3+@r2     r7-$sp
+sub r0 r1 r2		r3	r4		r5	r7		r8			r1																				 
+  		this	string contains	multiple	tabs		
