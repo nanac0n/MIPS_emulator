@@ -1,0 +1,5 @@
+add t0 t1 t2
+sub t3 t4 t5
+and s0 a0 a2
+or s2 zero s2
+nor t9 sp gp

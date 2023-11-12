@@ -1,0 +1,4 @@
+sll t0 t1 10
+srl s0 s1 2
+sll s2 s2 0x1d
+sra s4 sp 0x03
