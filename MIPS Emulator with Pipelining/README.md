@@ -1,7 +1,5 @@
 ## Programming Assignment #3: MIPS Emulator with Pipelining
 
-### ***Due on December 14 (Thursday), 24:00 ***
-
 ### Goal
 
 Implemant an emulator of the pipelined MIPS architecture, illustrated in the figure:
