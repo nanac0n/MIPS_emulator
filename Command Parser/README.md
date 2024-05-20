@@ -1,7 +1,5 @@
 ## Project #0: Command Parser
 
-### *** Due on September 22 (Friday), 24:00 ***
-
 ### Goal
 
 Implement a simple string parser to get familiar with (PASS)[https://sslab.ajou.ac.kr/pass] system.
