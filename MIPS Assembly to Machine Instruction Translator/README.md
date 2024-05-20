@@ -1,7 +1,5 @@
 ## Project #1: MIPS Assembly to Machine Instruction Translator
 
-### ***Due on October 13 (Friday), 24:00 ***
-
 ### Goal
 
 Translate MIPS assembly code into corresponding MIPS machine instructions.
