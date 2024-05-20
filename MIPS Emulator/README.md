@@ -1,7 +1,5 @@
 ## Project #2: MIPS Emulator
 
-### ***Due on November 17 (Friday), 24:00 ***
-
 ### Goal
 
 Implement a MIPS emulator that executes MIPS instructions loaded on the memory.
